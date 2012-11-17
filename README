@@ -1,0 +1,7 @@
+1) Ensure that you have Python installed.
+2) If necessary, edit tools\visualstudio_test_live.cmd to use the correct path to Python.
+3) Modify tools\visualstudio_test_live.cmd in other ways that you deem fit (ie: different maps/bots).
+
+When the solution is built, debug_game.cmd will be created. This is just for launching visualstudio_test_live.cmd.
+As you debug the bot, the console app will run debug_game.cmd and quit. debug_game.cmd will launch the aichallenge game with your bot.
+After that, a window should appear asking which debugger to use. Select a suitable one and debug away.
