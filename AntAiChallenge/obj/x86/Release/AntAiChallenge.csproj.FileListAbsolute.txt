@@ -1,0 +1,5 @@
+D:\Projects\VisualStudio\AntAiChallenge\AntAiChallenge\bin\Release\MyBot.exe
+D:\Projects\VisualStudio\AntAiChallenge\AntAiChallenge\bin\Release\MyBot.pdb
+D:\Projects\VisualStudio\AntAiChallenge\AntAiChallenge\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\VisualStudio\AntAiChallenge\AntAiChallenge\obj\x86\Release\MyBot.exe
+D:\Projects\VisualStudio\AntAiChallenge\AntAiChallenge\obj\x86\Release\MyBot.pdb
